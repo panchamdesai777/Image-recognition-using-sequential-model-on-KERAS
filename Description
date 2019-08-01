@@ -1,0 +1,6 @@
+In this  project i have trained a neural network to recognise objects in images using
+Cfir-10 dataset. The neural network is trained with help of KERAS which is a deep learning library and tensorflow which 
+is a deep learning frame work.The input image resoloution is of 32x32 . The information about the layers present in the network is 
+in the layer.docs file . The accuracy achieved after training the netwoork on CFIR-10 dataset is 75% . The different image classes present
+in the dataset are as follows : plane, car, Bird, cat, deer, Dog, Frog, Horse, Boat, Truck.The dataset consists of total of 60000 images
+50,000 test images and 10,000 sample images.
